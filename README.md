@@ -6,8 +6,8 @@ This is my personal portfolio website built to showcase my technical skills, pro
 
 ## ✨ Features
 
-- Responsive single-page layout with navigation
-- Sections included:
+- Responsive single-page layout with navigation  
+- Sections included:  
   - About Me  
   - Technical Skills  
   - Education Timeline  
@@ -18,7 +18,7 @@ This is my personal portfolio website built to showcase my technical skills, pro
 - Resume download option  
 - Interactive location copy feature  
 - Built-in clipboard copy functionality  
-- Accessible with keyboard and screen readers
+- Accessible with keyboard and screen readers  
 
 ---
 
@@ -27,7 +27,7 @@ This is my personal portfolio website built to showcase my technical skills, pro
 - **Frontend**: HTML5, CSS3, JavaScript  
 - **Styling Frameworks**: Bootstrap 5, Font Awesome  
 - **Fonts**: Google Fonts (Inter)  
-- **Interactivity**: JavaScript (vanilla)
+- **Interactivity**: JavaScript (vanilla)  
 
 ---
 
@@ -71,7 +71,9 @@ portfolio-kanishka/
 
 ## 🪪 License
 
-This project is open-source and free to use under the [MIT License](LICENSE).
+**All Rights Reserved © 2025 Kanishka Mohankumar**  
+This project is intended for **personal viewing only**.  
+Any unauthorized use, reproduction, distribution, or modification of the content in this repository is strictly prohibited.
 
 ---
 
