@@ -63,7 +63,7 @@ portfolio-kanishka/
 ## 📫 Contact
 
 - **Email**: [kanishkamohan223@gmail.com](mailto:kanishkamohan223@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/kanishka-mohan-96550b35b](https://www.linkedin.com/in/kanishka-mohan-96550b35b/)  
+- **LinkedIn**: [linkedin.com/in/kanishka-mohan-96550b35b](https://www.linkedin.com/in/kanishka-mohankumar-099742303/)  
 - **GitHub**: [github.com/Kanishka-mohankumar](https://github.com/Kanishka-mohankumar)  
 - **LeetCode**: [leetcode.com/u/Kanishka_33](https://leetcode.com/u/Kanishka_33/)
 
