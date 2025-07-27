@@ -55,7 +55,7 @@ portfolio-kanishka/
 │
 ├── index.html             # Main portfolio page
 ├── styles.css             # Custom styles
-├── Kanishka-Resume.pdf             # Downloadable resume
+├── Kanishka-Resume.pdf    # Downloadable resume
 ```
 
 ---
